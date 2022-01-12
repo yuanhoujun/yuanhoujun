@@ -23,10 +23,6 @@ If you want to contact me, [email](mailto:ouyangfeng2016@gamil.com) me, please.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuanhoujun&repo=Snake&theme=buefy" />
 </a>
 
-<a href="https://github.com/yuanhoujun/java-dynamic-proxy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuanhoujun&repo=java-dynamic-proxy&theme=buefy" />
-</a>
-
 ### More about me
 Blog: [Feng Ouyang Office](https://www.jianshu.com/u/db019edd34b4)
 
