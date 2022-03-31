@@ -23,6 +23,10 @@ If you want to contact me, [email](mailto:ouyangfeng2016@gamil.com) me, please.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuanhoujun&repo=Snake&theme=buefy" />
 </a>
 
+<a href="https://github.com/air-controller/air-controller-desktop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=air-controller&repo=air-controller-desktop&theme=buefy" />
+</a>
+
 ### More about me
 Blog: [Feng Ouyang Office](https://www.jianshu.com/u/db019edd34b4)
 
