@@ -13,7 +13,7 @@ If you want to contact me, [email](mailto:ouyangfeng2016@gamil.com) me, please.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
    
-| <a href="https://github.com/yuanhoujun"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuanhoujun&show_icons=true&include_all_commits=true&theme=Gradient&hide_border=true" alt="Houjun Yuan's github stats" /></a> | <a href="https://github.com/yuanhoujun"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanhoujun&layout=compact&theme=Gradient&hide_border=true" /></a> |
+| <a href="https://github.com/yuanhoujun"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuanhoujun&show_icons=false&include_all_commits=true&theme=Gradient&hide_border=true" alt="Houjun Yuan's github stats" /></a> | <a href="https://github.com/yuanhoujun"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanhoujun&layout=compact&theme=Gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
